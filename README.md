@@ -6,9 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubh-deo/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="shubh-deo-linkedin" height="40" width="40" /></a>
-<a href="https://leetcode.com/shxbh_018/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode-shxbh_018" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shxbh_018/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="shxbh_018" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shubh-deo/" target="_blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="shubh-deo-linkedin" height="40" width="40" /></a>
+<a href="https://leetcode.com/shxbh_018/" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode-shxbh_018" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shxbh_018/" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="shxbh_018" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
