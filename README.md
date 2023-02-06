@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Deo</h1>
+<h3 align="center">I am a Fourth Year Information Technology student</h3>
 
 - 🔭 I’m currently pursuing B.Tech in IT and MBA from ABV-IIITM, Gwalior. 
 - 🌱 I’m currently exploring new web technologies.
